@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Thomas",
+        "last": "Brown"
+      },
+      "location": {
+        "street": {
+          "number": 9177,
+          "name": "Mokoia Road"
+        },
+        "city": "Auckland",
+        "state": "Waikato",
+        "country": "New Zealand",
+        "postcode": 35322,
+        "coordinates": {
+          "latitude": "68.7629",
+          "longitude": "-3.3503"
+        },
+        "timezone": {
+          "offset": "-7:00",
+          "description": "Mountain Time (US & Canada)"
+        }
+      },
+      "email": "thomas.brown@example.com",
+      "login": {
+        "uuid": "e02e80d4-1548-4c9d-8c25-d5fe6d9b6594",
+        "username": "blackfrog862",
+        "password": "security",
+        "salt": "evqGXJ1V",
+        "md5": "858405058a89c38ab1c670f83bfefc4d",
+        "sha1": "5d65248aef7c687af12d71ad50037dabc7b61139",
+        "sha256": "84a66ca11d7c9bc84fe045604522fcb7e2019a4d0a337823c47b3523b571fa21"
+      },
+      "dob": {
+        "date": "1961-07-27T13:34:29.344Z",
+        "age": 59
+      },
+      "registered": {
+        "date": "2019-01-08T09:11:31.557Z",
+        "age": 1
+      },
+      "phone": "(486)-733-6373",
+      "cell": "(372)-003-9452",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/92.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/92.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/92.jpg"
+      },
+      "nat": "NZ"
+    }
+  ],
+  "info": {
+    "seed": "4b23f42e7c8f29c7",
+    "results": 1,
+    "page": 1,
+    "version": "1.3"
+  }
+}
